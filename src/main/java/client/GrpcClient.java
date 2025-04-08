@@ -152,4 +152,5 @@ public class GrpcClient {
     channel.shutdown();
     System.out.println(C3.getC01());
   }
+  System.out.println(C3.getC01());
 }
